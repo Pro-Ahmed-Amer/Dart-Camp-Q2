@@ -1,5 +1,5 @@
 # Dart-Camp-Q2
-***
+
 # <u>Assignment - 2</u>
 
 Q \ Separate the **"Even" & "Odd"** numbers between 1-20 in this List 
